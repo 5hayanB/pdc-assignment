@@ -1,0 +1,6 @@
+[submodule "systolic-array-accelerator"]
+	path = systolic-array-accelerator
+	url = https://github.com/5hayanB/systolic-array-accelerator.git
+[submodule "RV32I-Single-Cycle-Core"]
+	path = RV32I-Single-Cycle-Core
+	url = https://github.com/5hayanB/RV32I-Single-Cycle-Core.git
